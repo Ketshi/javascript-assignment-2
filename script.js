@@ -20,22 +20,22 @@ for (var i = 0; i < numberOfBoxes; i++) {
 if (numberofBoxes >= 201 && numberofBoxes <= 300) {
     boxes[i].style.backgroundColor = "yellow";
 }
-if (numberofBoxes >= 301 , numberofBoxes <= 400) {
+if (numberofBoxes >= 301 && numberofBoxes <= 400) {
     boxes[i].style.backgroundColor = "green";
 }
-if (numberofBoxes >= 401 , numberofBoxes <= 500) {
+if (numberofBoxes >= 401 && numberofBoxes <= 500) {
     boxes[i].style.backgroundColor = "orange";
 }
-if (numberofBoxes >= 501 , numberofBoxes <= 600) {
+if (numberofBoxes >= 501 && numberofBoxes <= 600) {
     boxes[i].style.backgroundColor = "pink";
 }
-if (numberofBoxes >= 601 , numberofBoxes <= 700) {
+if (numberofBoxes >= 601 && numberofBoxes <= 700) {
     boxes[i].style.backgroundColor = "black";
 }
-if (numberofBoxes >= 701 , numberofBoxes <= 800){
+if (numberofBoxes >= 701 && numberofBoxes <= 800){
     boxes[i].style.backgroundColor = "brown";
 }
-if (numberofBoxes >= 801 , numberofBoxes <= 900) {
+if (numberofBoxes >= 801 && numberofBoxes <= 900) {
     boxes[i].style.backgroundColor = "blue";
 }
 
